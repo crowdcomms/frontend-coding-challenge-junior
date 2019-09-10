@@ -7,26 +7,26 @@ It will consist of two views, a list view and a details view.
 
 ## Instructions
 
-1. Fetch the speakers from the api using the endpoint "https://public-api-dev.crowdcomms.com/v1/apps/helloapp/people"
-2. Display the speakers in a list (only show the details you deem suitable)
-3. Add a search box to filter the list
-4. Implement UI for users to star a speaker (ideally, any starred speakers will persist when the browser is refreshed but this is not a requirement for this challenge.)
-5. When a user clicks a speaker it should navigate to a "details" view
-6. The details view will display all the information we have about a speaker
+1. Clone the repo and create a private repository on Github.
+2. Fetch the speakers from the api using the endpoint "https://public-api-dev.crowdcomms.com/v1/apps/helloapp/people"
+3. Display the speakers in a list (only show the details you deem suitable)
+4. Add a search box to filter the list
+5. Implement UI for users to star a speaker (ideally, any starred speakers will persist when the browser is refreshed but this is not a requirement for this challenge.)
+6. When a user clicks a speaker it should navigate to a "details" view
+7. The details view will display all the information we have about a speaker
 
 Note: We have included a http interceptor to authorise any requests.
 
-To complete the test you will need to clone the repo and create a private repository on Github.
-You will also need to add me(dandouglas) as a collaborator once you have finished.
+You will need to add me(dandouglas) as a collaborator to the repo once you have finished.
 
 ## Requirements
 
-The app must be:
-1. Presentable
-2. Optimised for performance
-3. Display a some basic knowledge of the main Angular concepts and best practices
+The app must:
+1. Be presentable
+2. Be optimised for performance
+3. Display some basic knowledge of the main Angular concepts and best practices
    
-You should also commit regularly and follow the [Angular guidelines](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#-commit-message-guidelines) for commit messages.  Example commit message: "fix(people list): people not showing"
+You should also *commit regularly* and follow the [Angular guidelines](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#-commit-message-guidelines) for commit messages.  Example commit message: "fix(people list): people not showing"
 
 It would be nice if the code was tested but this is not a requirement.
 
