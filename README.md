@@ -16,13 +16,8 @@ It will consist of two views, a list view and a details view.
 
 Note: We have included a http interceptor to authorise any requests.
 
-Clone the repo and create a private repository on Github.
-
-Commit regularly and follow the [Angular guidelines](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#-commit-message-guidelines) for commit messages.
-
-Example commit message: "fix(people list): people not showing"
-
-Add me(dandouglas) as a collaborator once you have finished.
+To complete the test you will need to clone the repo and create a private repository on Github.
+You will also need to add me(dandouglas) as a collaborator once you have finished.
 
 ## Requirements
 
@@ -30,8 +25,10 @@ The app must be:
 1. Presentable
 2. Optimised for performance
 3. Display a some basic knowledge of the main Angular concepts and best practices
+   
+You should also commit regularly and follow the [Angular guidelines](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#-commit-message-guidelines) for commit messages.  Example commit message: "fix(people list): people not showing"
 
-It would be nice if the code was tested and suitably structured for a large enterprise app.
+It would be nice if the code was tested but this is not a requirement.
 
 Good luck!
 
