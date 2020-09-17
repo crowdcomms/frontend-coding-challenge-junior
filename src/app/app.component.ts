@@ -1,5 +1,4 @@
-import { Component, OnInit } from '@angular/core';
-import { HttpClient } from '@angular/common/http';
+import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-root',
@@ -9,8 +8,6 @@ import { HttpClient } from '@angular/common/http';
 export class AppComponent {
   title = 'junior-challenge-app';
 
-  constructor(
-    private http: HttpClient
-  ) {}
+  constructor() {}
 
 }
